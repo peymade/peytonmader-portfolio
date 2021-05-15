@@ -43,20 +43,20 @@ Estimate of time needed to complete: 40 minutes
 
 Start time: 3:45 PM
 
-Finish time: 2:30 PM
+Finish time: 4:40 PM
 
-Actual time needed to complete: 30 minutes
+Actual time needed to complete: 45 minutes
 
 ---------
 Number and name of feature: 5- Personalize
 
-Estimate of time needed to complete: 30 minutes
+Estimate of time needed to complete: 1.5 hours
 
-Start time: 2 PM 
+Start time: 8 PM 
 
-Finish time: 2:30 PM
+Finish time: 9:45 PM
 
-Actual time needed to complete: 30 minutes
+Actual time needed to complete: 1 hour and 45 minutes
 
 ---------
 
