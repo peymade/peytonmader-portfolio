@@ -15,7 +15,7 @@
 
         .card-profile-image {
             position: relative;
-            //min-height: 130px;
+            // max-height: 130px;
 
             img {
                 max-width: 180px;
@@ -29,6 +29,7 @@
                 &:hover {
                     transform: translate(-50%, -33%);
                 }
+
             }
         }
 
@@ -94,9 +95,20 @@
 
 // Animated cards
 
+.card-portfolio-image {
+    display: flex;
+    justify-content: center;
+}
+
 .card-lift--hover {
     &:hover {
         transform: translateY(-20px);
         @include transition($transition-base);
     }
+}
+
+.card-lift--hover .headerMim {
+    margin-bottom: 30px;
+    height: 100px;
+
 }

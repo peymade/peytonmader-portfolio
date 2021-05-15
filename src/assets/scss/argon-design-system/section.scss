@@ -186,7 +186,7 @@
         span {
             height: 120px;
             width: 120px;
-            border-radius: 50%;
+            border-radius: 10%;
         }
 
         .span-200 {
@@ -491,6 +491,7 @@
 .section-profile-cover {
     height: 580px;
     background-size: cover;
+    // background-color: rgb(27, 121, 165);
     background-position: center center;
 }
 

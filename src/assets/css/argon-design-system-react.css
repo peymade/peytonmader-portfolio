@@ -12104,7 +12104,7 @@ a.btn-icon-only {
       margin-top: 110px; } }
   @media (min-width: 576px) and (max-width: 991.98px) {
     .profile-page .card-profile .card-profile-stats {
-      margin-top: 30px; } }
+      margin-top: 30px; } } 
 
 .card .card-blockquote {
   padding: 2rem;
@@ -13540,7 +13540,7 @@ textarea[resize="horizontal"] {
   .section-shaped .shape-style-1 span {
     height: 120px;
     width: 120px;
-    border-radius: 50%; }
+    border-radius: 10%; }
   .section-shaped .shape-style-1 .span-200 {
     height: 200px;
     width: 200px; }
@@ -17041,5 +17041,6 @@ td.rdtYear:hover {
   margin-bottom: 0;
   flex: 1 1 auto;
   width: 1%; }
+
 
 /*# sourceMappingURL=argon-design-system-react.css.map */
