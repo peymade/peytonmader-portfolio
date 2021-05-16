@@ -39,6 +39,7 @@ ReactDOM.render(
         render={props => <Landing {...props} />}
       />
       <Route path="/how-to" exact render={props => <Index {...props} />} />
+      
       {/* <Route
         path="/profile-page"
         exact
